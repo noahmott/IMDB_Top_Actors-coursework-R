@@ -7,3 +7,4 @@ The second task was to separate the actors into their own rows and count them, t
 Only actors who had been in at least 25 films since 1970 were retained.
 The next task was to average the average ratings that each of those films had recieved and assign that average to each actor. If the actor had been in a highly rated film and a poorly rated film whatever the average of those average film ratings would be assigned to the actor.
 The final task was to chart the results and provide a reference marker for the mean averge rating for all actors
+![unnamed-chunk-7-1](https://user-images.githubusercontent.com/61364738/122484162-1641e180-cfa2-11eb-85e7-97617707dd5f.png)
